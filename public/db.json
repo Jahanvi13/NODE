@@ -1,90 +1,41 @@
 {"books": [{
   "id":1,
-  "Place": "1. Dubai, United Arab Emirates",
-  "time_to_visit": "- Best time to Visit: November to February; pleasent temperaure, range of activities to do.",
-  "Airport": "- International Airport: Dubai International Airport, Al Maktoum International Airport.",
-  "Entertainment": "- Entertainment: Enjoy Royal Safari Experience, Water Sports, Activities at Atlantic the Palm etc.",
-  "Food": "- Food: Popular Dishes Iranian Sangak, Lahem Bl Ajn; Arabian Pizza etc.",
-  "History": "- History : In 1950's oil was discoverd & that was the turning point in Dubai's lifestyle."
-
-},{"id":2,
-  "Place": "2. London",
-  "time_to_visit": "- Best time to Visit: April to June; mild weather and less crowd.",
-  "Airport": "- International Airport: London Heathrow, London Gatwick, London City, London Stansted, London Luton, London Southend.",
-  "Entertainment":"- Entertainment: Visit Tower Bridge, The London Eye, Buckingham Palace and more.",
-  "Food": "- Food: Bangers Mash, Pic & Mash, Chicken Tikka Masala",
-  "History": "- History: In 19th Century, London was transformed into world's largest city and capital of British Empire after that London become financial and trading capital. "
-
+  "title": " 1) ZipRecruiter",
+  "Description": "The ZipRecruiter app makes it easy to search for and apply to jobs immediately, without needing your laptop. First, upload your resume. Then, use the app to save potential opportunities, apply for jobs, and even track your applications.",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: ZipRecruiter has database of over 36 million resumes"
+  
+},
+{
+  "id":2,
+  "title": "2) Linkedln",
+  "Description": "When you want to network, LinkedIn is the place to go. With tons of employers, it is also an excellent place to meet recruiters. You can set up a profile that works like a resume, but you can upload your own resume, too. ",
+  "Cost": "Cost: Free for basic ; 29.99-97.99 premium per month",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Network with more than 875 million members."
 },
 {
   "id":3,
-  "Place": "3. Cancun, Mexico",
-  "time_to_visit": "- Best time to Visit: December to April",
-  "Airport": "- International Airport: Cancun International Airport",
-  "Entertainment": "- Entertainment: Tour to Chichen Itza, Tulum and Cenotes Tour etc",
-  "Food": "- Food: Tacoal Pastor, Chilaquites, Churros",
-  "History": "- History: The combinations of nice beaches, turquoise blue sea, agreeable weather makes it popular amoung travellers."
+  "title": "3) CareerBuilder",
+  "Description": "CareerBuilder’s mobile job search app helps job seekers each step of the way. Job seekers can make and save a personalized resume with just a few clicks. You would then be able to utilize your resume to go after job opportunities of interest. You can upload or build a resume right in the app, apply for jobs with a single tap, research salaries, and required skills for various job openings." ,
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 80 million candidates in CareerBuilder's resume database."
 },
 {
   "id":4,
-  "Place": "4. Bali, Indonesia",
-  "time_to_visit": "- Best time to Visit: May to September; warm and sunny with less crowd.",
-  "Airport": "- International Airport: Bali Ngurah Rai International Airport",
-  "Entertainment": "- Entertainment: Uluwatu Temple Sunset and Kecak Fire Dance Tour, East Bali Exploration Private Trip.",
-  "Food": "- Food: Babi Guling, Lawar, Sate lembat etc. ",
-  "History": "- History: The island boasts a myriad of impressive volcanoes, crystalline beaches which makes it popular for tourism."
-
-},{
+  "title": "4) Snagajob",
+  "Description": "If you're looking for a part-time or hourly job, then Snagajob is your app. You'll get immediate access to their database of new job listings, and the app even matches you with jobs that are a good fit. In addition to the one-click apply feature, which allows you to easily apply to jobs, Snagajob also lets you show off your personality to employers with a personality quiz. You can even add a video to your profile.",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 100 million registered job seekers."
+},
+{
   "id":5,
-  "Place": "5. Crete, Greece",
-  "time_to_visit": "- Best time to visit: May to September; summer with average temperature.",
-  "Airport": "- International Airport: Heraklion Airport, Chania Airport",
-  "Entertainment": "- Entertainment: Explore the number of beaches, visit Agios Nikolaos; charming small city etc.",
-  "Food": "- Food: Cretan Cheese Pies, Mountain Bulbs (Askordoulakous), Dakos etc.",
-  "History": "- History: During the Bronze Age, Crete was the centre of the Minoan, notable for its art, its writing systems such as Linear A, and for its massive building complexes including the palace at Knossos."
-
-},{
-  "id":6,
-  "Place": "6. Rome Italy",
-  "time_to_visit": "- Best time to visit: April - June; mild weather and less crowd.",
-  "Airport": "- International Airport: Leonardo da Vinci Fiumicino Airport",
-  "Entertainment": "- Entertainment: Visit Pompeii and the Amalfi Coast, visit Sistine Chapel and the Vatican Museums etc.",
-  "Food": "- Food: Bucatini Amatriciana, Pizza al taglio, Artichokes.",
-  "History": "- History: Italy is famous for the Renaissance and the incredible artists it produced, "
-
-},{
-  "id":7,
-  "Place": "7. Cabo San Lucas, Mexico",
-  "time_to_visit": "- Best time to Visit: December - April; mild weather and less crowd.",
-  "Airport": "- International Airport: Los Cabos International Airport.",
-  "Entertainment": "- Entertainment: Enjoy the Whale Watching tour, beaches, Sunset premium dinner and cruise etc.",
-  "Food": "- Food: Mexican Chocolate Clam, Smoked Marlin, Pitahaya.",
-  "History": "- History: America ended up conceding Baja California to Mexico. After that Cabo San Lucas became known as a wonderful fishing spot and became a tourist destination."
-
-},{
-  "id":8,
-  "Place": "8. Istanbul, Turkey",
-  "time_to_visit": "- Best time to visit: April to June and September to Octobere; best weather.",
-  "Airport": "- International Airport: Istanbul airport (IST), Sabiha Gokcen Airport.",
-  "Entertainment": "- Entertainment: Wander inside the Topkapi Palace, Stroll through Cicek Pasaji etc.",
-  "Food": "- Food: Simit, Doner, Lahmacun, Izgara Balik etc.",
-  "History": "- History: The city grew in size and influence, eventually becoming a beacon of the Silk Road and one of the most important cities in history."
-
- },{
-  "id":9,
-  "Place": "9. Paris, France",
-  "time_to_visit": "- Best time to visit: May to September",
-  "Airport": "International Airport: Charles de Gaulle, Orly and Beauvais.",
-  "Entertainment": "- Entertainment: Visit Eiffel Tower, Seine River, Musee Rodin etc.",
-  "Food": "- Food: The croissant, The baguette, The ratatouille etc.",
-  "History": "- History: Paris is also known for its eventful history: the French Revolution, the Commune, May 68, etc. Then, thousands of films, both French and foreign, were shot in the capital."
-},{
-  "id":10,
-  "Place": "10. Hurghada, Egypt",
-  "time_to_visit": "- Best time to visit: April and June and between September and November.",
-  "Airport": "- International Airport: Hurghada International Airport.",
-  "Entertainment": "- Entertainment: Enjoy Desert Quad Safari, Water Sports, etc.",
-  "Food": "- Food: Mahshi, Moussaka, Shish Kabab & Kofta.",
-  "History": "- History: Hurghada first emerged as a settlement of significance in 1909, when British geologists discovered oil reserves nearby. For decades oil—as well as fishing—drove the small Egyptian town's economy."
-
+  "title": "5) Indeed",
+  "Description": "If you're a fan of Indeed, then you'll want to use its app. It's garnered nearly 1.2 million ratings in the iTunes store with an average 4.7 out of 5-star review. Pretty impressive, right? It works similarly to the website in that you can search millions of jobs in a matter of seconds. ",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 100 million registered job seekers."
 }]}

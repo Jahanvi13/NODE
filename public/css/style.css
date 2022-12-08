@@ -1,0 +1,102 @@
+:root{
+    --main-radius: 5px;
+    --main-padding:5px;
+
+}
+.container{
+    display: grid;
+    grid-template-rows: 1fr 2frfr ;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "home1 home2"
+    "home3 home2"
+    ;
+    gap: 5px;
+
+}
+body{
+
+    background-blend-mode: lighten;
+    background-image: url("bb.webp") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-style: double;
+    
+    
+}
+#home{
+    
+    height: 300px;
+    border-style: solid;
+    border-width: thin;
+    padding-right: 50px;
+    text-align: center;
+    padding-left: 80px;
+    
+}
+#home1{
+   padding-left: 20px; 
+   height: 200px;
+   border-style: solid;
+   border-width: thin;
+   grid-area: home1;
+   
+   border-radius: var(--main-radius);
+   }
+#home2{
+    border-style: solid;
+    border-width: thin;
+    
+    grid-area: home2;
+    padding-left: 20px; 
+    border-radius: var(--main-radius);
+
+}
+#home3{
+
+    height: 200px;
+    border-style: solid;
+    border-width: thin;
+    grid-area: home3;
+    padding-left: 20px; 
+    border-radius: var(--main-radius);
+    
+}
+#home4{
+    
+    height: 200px;
+    border-style: solid;
+    border-width: thin;
+    padding-left: 20px; 
+    border-radius: var(--main-radius);
+   
+}
+
+#Bye{
+    height: 200px;
+    border-style: solid;
+    border-width: thin;
+    padding-left: 20px; 
+   border-radius: var(--main-radius);
+}
+#linkedln{
+    height: 45px;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    padding: var(--main-padding);
+   border-radius: var(--main-radius);
+
+    
+    
+}
+.bar{
+    height: 80px;
+    
+    text-align: right;
+    border-style: solid;
+    border-width: thin;
+    padding: var(--main-padding);
+    border-radius: var(--main-radius);
+    
+}
