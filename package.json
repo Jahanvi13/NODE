@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index"
   },
-  "author": "Manas Agarwal",
+  "author": "Jahanvi Agarwal",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
